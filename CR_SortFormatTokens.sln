@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CR_SortFormatTokens", "CR_SortFormatTokens\CR_SortFormatTokens.csproj", "{71927237-158B-4041-90D4-B67E079D8744}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CR_SortFormatTokens_Tests", "CR_SortFormatTokens_Tests\CR_SortFormatTokens_Tests.csproj", "{D31A0C8F-44DE-4208-9266-9C2CB989E058}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71927237-158B-4041-90D4-B67E079D8744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71927237-158B-4041-90D4-B67E079D8744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71927237-158B-4041-90D4-B67E079D8744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71927237-158B-4041-90D4-B67E079D8744}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D31A0C8F-44DE-4208-9266-9C2CB989E058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D31A0C8F-44DE-4208-9266-9C2CB989E058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D31A0C8F-44DE-4208-9266-9C2CB989E058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D31A0C8F-44DE-4208-9266-9C2CB989E058}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
